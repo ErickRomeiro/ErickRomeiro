@@ -1,4 +1,4 @@
-![Erick Gabriel Romeiro — Operational HR to Software Engineering](./banner.svg)
+![Erick Gabriel Romeiro — Operational HR to Software Engineering](./assets/banner.svg)
 
 🇺🇸 **English** · [🇧🇷 Português](#-português)
 
