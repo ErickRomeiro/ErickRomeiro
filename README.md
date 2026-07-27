@@ -1,4 +1,4 @@
-![Erick Gabriel de Souza Romeiro — Building internal tools with TypeScript](./assets/banner.svg)
+![Erick Gabriel de Souza Romeiro — Building internal tools with TypeScript](./assets/banner.svg?v=2)
 
 🇺🇸 **English** · [🇧🇷 Português](#-português)
 
