@@ -4,7 +4,7 @@
 
 ---
 
-### Erick Gabriel Romeiro
+### Erick Gabriel de Souza Romeiro
 
 Operational HR analyst at KM Transportes Rodoviários, a Brazilian road freight company, supporting day-shift supervision across 4 sectors and ~290 employees.
 
@@ -36,7 +36,7 @@ Web app for tabletop RPG groups: authenticated users create and manage character
 
 ---
 
-### Erick Gabriel Romeiro
+### Erick Gabriel de Souza Romeiro
 
 Analista de RH operacional na KM Transportes Rodoviários, dando suporte à supervisão do turno diurno em 4 setores e ~290 colaboradores.
 
